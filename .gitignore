@@ -7,3 +7,5 @@
 # make.bat
 # source/_build/html/
 
+*/**.DS_Store
+.DS_Store
